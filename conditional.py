@@ -4,7 +4,7 @@
 #   print("the condition isnt true")
 
 
-age = 16 
+age = 18 
 if age <= 15:
     print("you are younger than 16")
 elif age == 16:
